@@ -7,6 +7,8 @@ Welcome to **Spring 2025 AI Journey!** ✨ This is an **immersive, hands-on lear
 
 Whether you're **new to AI** or already have some knowledge, this course will guide you **step by step, from the basics to building your own AI projects!** 🚀  
 
+![image](https://github.com/user-attachments/assets/67125454-79eb-4f11-8c45-bbd2d6b0626c)
+
 ---
 
 ## **📖 What Will You Learn in This Course? 🔍**  
