@@ -358,8 +358,5 @@ Climate change refers to long-term shifts in temperature and weather patterns, l
 
 ## Create A Prompt with Vairable by GPT
 
-![image](https://github.com/user-attachments/assets/22599e89-ce54-4627-b956-83ea497deb11)
-
-![image](https://github.com/user-attachments/assets/94d5e7af-0b99-4eb1-af63-042c9ce746c5)
-
+![image](https://github.com/user-attachments/assets/d033268f-e2d6-4515-a0ed-862ca8f4c813)
 
