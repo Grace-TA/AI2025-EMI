@@ -155,4 +155,204 @@ Sun Tzu’s Art of War emphasizes strategy, deception, adaptability, and underst
 
 ---
 
-These labs sequentially illustrate core techniques in prompt engineering, providing structured educational examples and clear learning outcomes.
+## Intermediate Labs (中級ラボ) – 10 Labs
+
+---
+
+### Lab 11: **Multilingual Tone Adaptation**
+**Prompt:**  
+> Write an article about Hsinchu as a news report and as an explanatory text in 50 words in English, Chinese, and Japanese.
+
+**Educational Response:**  
+
+**News Report (English):**  
+Hsinchu, Taiwan's renowned tech hub, sees unprecedented growth as semiconductor investments surge. Local leaders emphasize education and infrastructure, aiming to maintain innovation and attract global talents to sustain regional economic prosperity.
+
+**Explanatory Text (English):**  
+Hsinchu is a northern Taiwanese city known as the "Silicon Valley of Taiwan" due to its semiconductor industries and research institutions. It attracts highly skilled professionals and supports economic growth through innovation and technology development, significantly influencing Taiwan’s global technological status.
+
+**新聞報導 (Chinese):**  
+新竹作為台灣科技重鎮，近期因半導體產業投資激增，經濟蓬勃發展。當地政府強化教育與基礎建設，持續吸引國際人才進駐，帶動區域創新與經濟繁榮。
+
+**說明性文字 (Chinese):**  
+新竹位於台灣北部，被譽為「台灣矽谷」，以半導體產業與科研機構聞名，吸引大量高技術人才。藉由科技創新推動經濟發展，深遠影響台灣在全球科技產業中的地位。
+
+**ニュース報道 (Japanese):**  
+台湾のテクノロジー中心地、新竹市は半導体産業への投資急増により、未曾有の発展を遂げている。政府は教育やインフラ整備を推進し、世界的人材を呼び込み、地域経済の持続的な繁栄を目指す。
+
+**説明文 (Japanese):**  
+新竹は台湾北部の都市で、「台湾のシリコンバレー」として知られている。半導体産業や研究機関が集中し、優秀な人材を惹きつけ、技術革新を通じて経済成長を支え、台湾のグローバルな技術競争力を高めている。
+
+---
+
+### Lab 12: **Dramatic Narrative Generation**
+**Prompt:**  
+> Describe AI’s impact on society in a dramatic tone in English, Chinese, and Japanese.
+
+**Educational Response:**  
+
+**English:**  
+AI emerges dramatically, reshaping society overnight—jobs vanish into automated oblivion, yet new opportunities rise from the digital ashes. Humans now stand at the crossroads: evolve, embrace AI, or perish in obsolescence.
+
+**Chinese:**  
+人工智慧猶如風暴席捲全球，舊職業瞬間消失於自動化之中；然而，科技的灰燼裡孕育新希望。人類正面臨抉擇：要麼擁抱革新，要麼在無聲中被淘汰。
+
+**Japanese:**  
+AIは嵐の如く社会を一変させた。瞬く間に仕事は自動化の波に呑まれ消え去る。しかし、瓦礫の中から新たな機会が芽生える。人類は進化を迫られているのだ。
+
+---
+
+### Lab 13: **Structured Data Generation (Tables)**
+**Prompt:**  
+> Create a table listing 5 fruits and their prices.
+
+**Educational Response:**  
+
+| Fruit       | Price (USD) |
+|-------------|-------------|
+| Apple       | 1.20        |
+| Banana      | 0.50        |
+| Orange      | 0.90        |
+| Strawberry  | 2.50        |
+| Watermelon  | 4.00        |
+
+---
+
+### Lab 14: **Multilingual Instructional Steps**
+**Prompt:**  
+> List 5 key steps to learn Python programming, with one-sentence descriptions in English, Chinese, and Japanese.
+
+**Educational Response:**  
+
+| Step | English | Chinese | Japanese |
+|------|---------|---------|----------|
+| 1 | Install Python environment and necessary tools. | 安裝 Python 環境與所需工具。 | Python環境と必要なツールをインストールする。 |
+| 2 | Understand basic syntax and commands. | 學習基本語法與指令。 | 基礎的な文法とコマンドを理解する。 |
+| 3 | Practice coding with simple projects. | 透過簡單專案實際練習程式編寫。 | 簡単なプロジェクトでプログラムを実践する。 |
+| 4 | Learn about libraries and modules. | 學習常用函式庫和模組的應用。 | 主要なライブラリやモジュールを学ぶ。 |
+| 5 | Build real-world applications to solidify skills. | 開發實際應用程式，以鞏固技能。 | 実用的なアプリ開発でスキルを定着させる。 |
+
+---
+
+### Lab 15: **Markdown Outline Generation**
+**Prompt:**  
+> Generate a Markdown outline on "Effective Teamwork."
+
+**Educational Response:**
+
+```markdown
+# Effective Teamwork
+
+## 1. Introduction
+- Importance of teamwork
+- Definition and characteristics
+
+## 2. Key Elements of Effective Teamwork
+- Clear communication
+- Defined roles and responsibilities
+- Shared goals and vision
+- Mutual trust and respect
+
+## 3. Overcoming Challenges
+- Conflict resolution
+- Managing diverse personalities
+- Effective feedback
+
+## 4. Strategies to Improve Teamwork
+- Regular team-building activities
+- Training and development
+- Leadership and motivation
+
+## 5. Conclusion
+- Benefits of effective teamwork
+- Continuous improvement mindset
+```
+
+---
+
+### Lab 16: **CSV Data Generation**
+**Prompt:**  
+> Generate a CSV-format sales report with monthly data.
+
+**Educational Response:**  
+
+```csv
+Month,Sales (USD)
+January,5000
+February,6200
+March,7500
+April,6800
+May,7200
+June,8100
+July,9000
+August,8500
+September,7800
+October,8300
+November,9100
+December,12000
+```
+
+---
+
+### Lab 17: **FAB Product Description**
+**Prompt:**  
+> Write a product description for [AAU001-ZE Testing System] using the FAB method.
+
+**Educational Response:**  
+
+**Feature:**  
+Advanced automated measurement capabilities with precision sensors and AI-driven analytics.
+
+**Advantage:**  
+Reduces manual testing time significantly and improves accuracy and reliability of results.
+
+**Benefit:**  
+Enables your team to rapidly validate products, ensuring higher quality and faster market entry, ultimately maximizing your competitive advantage.
+
+---
+
+### Lab 18: **Formal vs. Informal Article Writing**
+**Prompt:**  
+> Write a professional and an informal article on machine learning in 100 words.
+
+**Educational Response:**  
+
+**Professional (Formal):**  
+Machine learning is a subfield of artificial intelligence focused on algorithms capable of learning from data to improve performance on specific tasks. It involves training computational models to recognize patterns, enabling decision-making processes across industries like healthcare, finance, and transportation. These algorithms enhance efficiency, predict outcomes accurately, and facilitate innovation by automating complex analytical tasks, thus driving economic growth and technological advancement.
+
+**Informal:**  
+Machine learning lets computers learn from data, helping them get smarter over time without explicit programming. Imagine Netflix recommending movies or your phone recognizing your face—it’s machine learning behind the scenes! This technology shapes everything from shopping online to self-driving cars, making life easier and more personalized. Whether it’s predicting the weather or recommending songs, machine learning is quietly improving our daily lives.
+
+---
+
+### Lab 19: **Multilingual Paraphrasing**
+**Prompt:**  
+> Rewrite: "Deep learning is a neural network technology that processes large datasets." in English, Chinese, and Japanese.
+
+**Educational Response:**  
+
+**English:**  
+Deep learning utilizes neural networks to analyze extensive datasets efficiently.
+
+**Chinese:**  
+深度學習是一種透過神經網路有效處理大量資料的技術。
+
+**Japanese:**  
+ディープラーニングとは、大規模なデータを処理するためのニューラルネットワーク技術である。
+
+---
+
+### Lab 20: **Tone Variation in Explanation**
+**Prompt:**  
+> Explain climate change sarcastically and neutrally.
+
+**Educational Response:**  
+
+**Sarcastically:**  
+Climate change is totally nothing to worry about—just a slight increase in temperature, melting glaciers, rising seas, intense storms... but who needs polar bears anyway?
+
+**Neutrally:**  
+Climate change refers to long-term shifts in temperature and weather patterns, largely driven by human activities such as fossil fuel combustion, leading to severe environmental impacts globally.
+
+---
+
