@@ -17,7 +17,9 @@ Through this hands-on project, you will gain **deeper insights into AI-driven co
 <img src="https://github.com/user-attachments/assets/f64a1394-a869-4e92-84fb-7e8a6bda4ccf" width="500">
 ---
 
-### Step 2: Design your magic prompt 
+### Step 2: Design your magic prompt! 
+
+<img src="https://github.com/user-attachments/assets/ef24591e-ded5-46ac-8e79-f9ddcde8fb41" width="500">
 
 **[Your Prompt]**
 
