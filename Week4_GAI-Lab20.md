@@ -1,7 +1,5 @@
 # Unit 4 🧠GAI Workshop🛠️ - Prompt Engineering: 🚀Enhance AI Applications & ⚙️Unlock the Smart Future
 
-Here is your structured lab content and responses based on the given prompts, clearly organized and numbered:
-
 ---
 ## Beginner Labs (初級ラボ) – 10 Labs
 
