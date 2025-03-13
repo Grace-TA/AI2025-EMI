@@ -21,7 +21,10 @@ Through this hands-on project, you will gain **deeper insights into AI-driven co
 
 <img src="https://github.com/user-attachments/assets/ef24591e-ded5-46ac-8e79-f9ddcde8fb41" width="500">
 
+
 **[Your Prompt]**
+
+<img src="https://github.com/user-attachments/assets/2e5842f1-a3bc-454e-9ba6-d9d8f365616d" width="500">
 
 ---
 ### Step 3: Check the response from GPT
@@ -175,4 +178,4 @@ Multi-step summarization involves condensing information while extracting key th
 
 ---
 
-**Note: Demo was completed by GPT Free Account🚀**
+**Note: Demo was completed by one prompt and GPT Free Account🚀**
