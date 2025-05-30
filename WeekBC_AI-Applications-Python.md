@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/39f594ca-8468-42f0-870e-80bf36e00064)
+
+
+
 # Lab for Google Colab & Linux Essentials
 
 ## Lab 0 Install Colab and System-Check Cell (run once at the top)
